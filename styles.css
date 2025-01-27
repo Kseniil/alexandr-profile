@@ -1,0 +1,125 @@
+body {
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+
+.image-radius {
+  /* border-radius: 200px; */
+  border: 10px solid #68676714;
+  box-shadow: 5px 5px 5px pink;
+}
+
+h1 {
+  text-shadow: 1px 1px 2px pink;
+  font-size: 30px;
+  font-style: normal;
+  color: #2a3161;
+  /* background-color: #e8e2bb; */
+  border: 0px solid pink;
+  width: max-content;
+  /* border-radius: 15px; */
+  /* border-color: rgb(193, 190, 190); */
+  border-style: outset;
+  box-shadow: 5px 5px 15px pink;
+}
+.firsttext {
+  margin: 0%;
+  text-shadow: 1px 1px 2px rgb(132, 131, 131);
+  font-style: normal;
+  color: #2a3161;
+  font-size: 16px;
+  border-style: outset;
+  border-radius: 8px;
+  /* background-color: #eaa5fb; */
+  box-shadow: 5px 5px 15px pink;
+}
+
+.string1 {
+  list-style: url(icons9-instagram.svg);
+}
+.string2 {
+  list-style: url(icons8-телеграмма-app.svg);
+}
+
+.socialtitle {
+  font-size: 24px;
+}
+.bla {
+  font-family: "Franklin Gothic Medium";
+  font-size: 20px;
+  color: #2a3161;
+  text-shadow: 1px 1px 2px rgb(132, 131, 131);
+}
+.card {
+  padding: 40 45px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+.info {
+  display: flex;
+  margin-bottom: 20px;
+}
+.info-text {
+  margin-left: 60px;
+}
+.avatar {
+  display: block;
+  width: 250px;
+}
+.container {
+  max-width: 750px;
+  margin: auto;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 240px auto;
+  column-gap: 100px;
+}
+.text-center {
+  text-align: center;
+}
+h2 {
+  font-family: "Franklin Gothic Medium";
+  font-size: 20px;
+  color: #2a3161;
+  text-shadow: 1px 1px 2px rgb(132, 131, 131);
+}
+.banan4ik {
+  font-size: 25px;
+  border-style: outset;
+  border-radius: 10px;
+  text-decoration: none;
+  box-shadow: 5px 5px 15px pink;
+  border-color: #b88cd1;
+  font-style: initial;
+}
+.bananafoto {
+  border-style: outset;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px pink;
+}
+.liststyle {
+  margin: 0%;
+  text-shadow: 1px 1px 2px rgb(132, 131, 131);
+  font-style: normal;
+  color: #2a3161;
+  font-size: 20px;
+  border-style: outset;
+  border-radius: 10px;
+  text-decoration: none;
+  box-shadow: 5px 5px 15px pink;
+  border-color: #b88cd1;
+}
+.table {
+  text-shadow: 1px 1px 2px rgb(132, 131, 131);
+  font-style: normal;
+  color: #2a3161;
+}
+.table td {
+  border: 1px solid rgb(21, 23, 62);
+  box-shadow: 5px 5px 15px pink;
+  border-radius: 2px;
+}
+input {
+  background-color: #e3b7ee;
+  box-shadow: 5px 5px 15px pink;
+}
